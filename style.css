@@ -1,0 +1,5 @@
+#imagie {
+    width: 300px;
+    height: auto;
+    transition: width 0.3s, height 0.3s;
+}
